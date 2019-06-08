@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+# A vulnerable version of ruby!
+ruby '2.3.0'

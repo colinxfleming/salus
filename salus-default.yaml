@@ -23,6 +23,7 @@ enforced_scanners:
   - RepoNotEmpty
   - Brakeman
   - BundleAudit
+  - RubyAudit
   - Gosec
   - NPMAudit
   - YarnAudit
